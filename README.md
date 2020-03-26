@@ -1,4 +1,4 @@
-# Dollardog
+# DollarDog
 
 ## Features
 
@@ -71,4 +71,4 @@ make
 •	SET THE BIOS CLOCK BACK
 
 
-# I am not responsible of any damage caused by this software . Use at your own discretion .
+## I am not responsible of any damage caused by this software . Use at your own discretion .
