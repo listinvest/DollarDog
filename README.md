@@ -24,21 +24,33 @@ Use the files in the bin folder
 
 ## Advanced User
 1) Install GO 
+
 sudo apt-get update
+
 sudo apt-get -y upgrade
+
 curl -O https://storage.googleapis.com/golang/go1.11.2.linux-amd64.tar.gz
+
 tar -xvf go1.11.2.linux-amd64.tar.gz
+
 sudo mv go /usr/local
 
+
 2) Set the paths
+
 export PATH=$PATH:/usr/local/go/bin
+
 export GOPATH=~/gopath
+
 export GOROOT=/usr/local/go
+
 
 3) Make Files
 
 make deps
+
 make
+
 
 ## Preventive measures
 
